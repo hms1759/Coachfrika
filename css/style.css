@@ -689,6 +689,9 @@ button {
 .contact_main{
     
     padding-top: 20px;}
+    .contactme{
+        padding-bottom: 30px;
+    }
 .mail_text {
     width: 100%;
     float: left;
