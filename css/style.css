@@ -478,6 +478,7 @@ button {
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
 }
+
 .services_taital::after {
     content: '';
     position: absolute;
@@ -652,7 +653,7 @@ button {
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 90px;
+    padding-bottom: 50px;
 }
 .contact_taital {
     width: 40%;
@@ -685,6 +686,9 @@ button {
     float: left;
     padding-top: 50px;
 }
+.contact_main{
+    
+    padding-top: 20px;}
 .mail_text {
     width: 100%;
     float: left;
