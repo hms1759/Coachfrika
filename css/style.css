@@ -225,7 +225,7 @@ button {
 
 .header_section {
     width: 100%;
-    background-image: url(../images/banner1.jpg);
+    background-image: url(../images/banner-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;
@@ -275,23 +275,23 @@ button {
     border-bottom: 80px solid #13a25d;
 }
 .banner_main {
-    width: 44%;
+    width: 32%;
     float: left;
     background: #fff;
-    padding: 40px;
+    padding: 20px;
 }
 
 .banner_taital {
     width: 100%;
     float: left;
-    font-size: 48px;
+    font-size: 36px;
     color: #060707;
     font-weight: bold;
 }
 .banner_taital1 {
     width: 100%;
     float: left;
-    font-size: 48px;
+    font-size: 28px;
     color: #060707;
 }
 .banner_text {
@@ -396,7 +396,7 @@ button {
 }
 
 .about_taital {
-    width: 35%;
+    width: 32%;
     float: left;
     font-size: 40px;
     color: #0f0f0f;
@@ -465,7 +465,8 @@ button {
 .services_section{
     width: 100%;
     float: left;
-    background-image: url(../images/services-bg.png);
+    background-color: #13a25d;
+    padding: 40px;
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -757,12 +758,15 @@ textarea#comment::placeholder {
     font-family: 'Roboto', sans-serif;
 }
 .testimonial_text{
+    padding: 0 40px;
+    background-color: #13a25d;
     width: 100%;
     float: left;
-    font-size: 16px;
-    color: #2c2420;
+    font-size: 18px;
+    font-weight: bold;
     text-align: center;
     margin: 0px;
+    color: white;
     font-family: 'Roboto', sans-serif;
 }
 .testimonial_section_2 {
